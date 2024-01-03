@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+The project allows users to input text, select the desired operation, and then displays the processed text as the output 
+
+![Home-Page](https://github.com/HarshPrajapati25/Text-util/assets/124291081/a73c4d08-4f94-4af4-896f-c6fafeee42b0)
+
+![Dark-mode](https://github.com/HarshPrajapati25/Text-util/assets/124291081/b3df1452-59a3-494b-a3f9-add7de754329)
+
+![initialstage](https://github.com/HarshPrajapati25/Text-util/assets/124291081/e8d10ac6-738a-432a-ad78-72934921e40c)
+
+![finalstage](https://github.com/HarshPrajapati25/Text-util/assets/124291081/4842c04c-d71a-4c1c-99ee-ed212829154d)
