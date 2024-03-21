@@ -1,81 +1,47 @@
-# Getting Started with Create React App
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1>TextUtils - Text Manipulation Utility</h1>
 
-## Available Scripts
+<p>TextUtils is a utility which can be used to manipulate your text in the way you want. This project is built using React.</p>
 
-In the project directory, you can run:
+<h2>Project Overview</h2>
+<p>TextUtils is a web application that provides various text manipulation features. Users can input text and apply different operations such as converting to uppercase, lowercase, capitalizing, removing extra spaces, and more.</p>
 
-### `npm start`
+<h2>Features</h2>
+<ul>
+  <li>Convert text to uppercase</li>
+  <li>Convert text to lowercase</li>
+  <li>Capitalize text</li>
+  <li>Remove extra spaces</li>
+  <li>Count characters, words, and sentences</li>
+  <li>Find and replace text</li>
+</ul>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h2>Getting Started</h2>
+<p>To run this project locally:</p>
+<ol>
+  <li>Clone this repository:</li>
+  <pre><code>git clone https://github.com/yourusername/textutils.git</code></pre>
+  <li>Navigate into the project directory:</li>
+  <pre><code>cd textutils</code></pre>
+  <li>Install dependencies:</li>
+  <pre><code>npm install</code></pre>
+  <li>Start the development server:</li>
+  <pre><code>npm start</code></pre>
+  <li>Open the application in your web browser at <code>http://localhost:3000</code>.</li>
+</ol>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h2>Contributing</h2>
+<p>Contributions are welcome! If you have suggestions or find any issues, please feel free to open an issue or submit a pull request.</p>
 
-### `npm test`
+<h2>Acknowledgements</h2>
+<p>This project is inspired by the need for a simple text manipulation tool and aims to provide a user-friendly interface for performing common text operations.</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-The project allows users to input text, select the desired operation, and then displays the processed text as the output 
-
-![Home-Page](https://github.com/HarshPrajapati25/Text-util/assets/124291081/a73c4d08-4f94-4af4-896f-c6fafeee42b0)
-
-![Dark-mode](https://github.com/HarshPrajapati25/Text-util/assets/124291081/b3df1452-59a3-494b-a3f9-add7de754329)
-
-![initialstage](https://github.com/HarshPrajapati25/Text-util/assets/124291081/e8d10ac6-738a-432a-ad78-72934921e40c)
-
-![finalstage](https://github.com/HarshPrajapati25/Text-util/assets/124291081/4842c04c-d71a-4c1c-99ee-ed212829154d)
+</body>
+</html>
